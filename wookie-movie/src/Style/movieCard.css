@@ -1,0 +1,47 @@
+.containerCard{
+    display: flex;
+    justify-content: center;
+    margin: 2% auto;
+}
+
+.boxCard{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mainBoxCard{
+    padding-top:55px;
+}
+
+.titleCard {
+    font-size: 12px!important;
+}
+
+.titleCardAlt {
+    font-size: 8px!important;
+    /* text-align: center; */
+}
+
+.css-ryrseu-MuiRating-root {
+    font-size:1rem!important;
+}
+
+.css-o69gx8-MuiCardMedia-root {
+    width: 75%!important;
+}
+
+.cardContent{
+    position: relative;
+}
+
+.iconBtn{
+    position: absolute!important;
+    top: -3px;
+    left: 7px;
+}
+
+.iconBtnAlt{
+    position: absolute!important;
+    top: -3px;
+    right: 0;
+}

@@ -1,0 +1,12 @@
+.text-decoration {    
+    text-decoration: none!important;
+}
+
+.favoriteYet{
+    text-align: center;
+    font-size: 12px;
+}
+
+.boxFavorites {
+    padding-top: 60px
+}
